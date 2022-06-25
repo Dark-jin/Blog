@@ -13,6 +13,9 @@ function App() {
       <div className='login-1'>
         <Login />
       </div>
+      <div className='model'>
+        <model/>
+      </div>
     </div>
   );
 }
